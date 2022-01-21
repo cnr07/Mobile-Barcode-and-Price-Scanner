@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+
+
+    <ImageView
+        android:layout_marginTop="-10dp"
+        android:id="@+id/imgg"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:padding="3dp">
+
+
+    </ImageView>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:id="@+id/titlee"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:textColor="@color/black"
+            android:text="deneme1">
+
+        </TextView>
+
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/pricee"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="deneme2">
+
+        </TextView>
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/merchantt"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="deneme3">
+
+        </TextView>
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/buylinkk"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="deneme4fdssfdfdsfdsdsfdsffdsjkdsfjfdskjkewwrkrewhjwerjkewrhjewrjhewrhjrhjhewrhewrhewhewhjewhewrhjewrhewhkrhkejehjhewjhekhehewhehwehwrj">
+
+        </TextView>
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
